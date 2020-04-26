@@ -1,5 +1,6 @@
 {
-  "item.tutorialmod.example_item": "Example Item",
+  "item.tutorialmod.example_item": "Jenkaaz Gem",
   "itemGroup.tutorialmod": "Tutorial Mod",
-  "block.tutorialmod.example_ore": "Example Ore"
+  "block.tutorialmod.example_ore": "Jenkaaz Ore",
+  "block.tutorialmod.jenkaaz_block": "Jenkaaz Block"
 }

@@ -21,5 +21,5 @@ public class ModItemGroups {
     }
 
     public static final ItemGroup MOD_ITEM_GROUP = new ModItemGroup(TutorialMod.MODID,
-            () -> new ItemStack(ModItems.EXAMPLE_ITEM));
+            () -> new ItemStack(ModItems.EXAMPLE_ITEM.get()));
 }
